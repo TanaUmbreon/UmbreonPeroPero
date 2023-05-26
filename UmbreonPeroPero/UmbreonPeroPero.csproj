@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Umbreon Pero-Pero</Title>
+    <Company>Tana</Company>
+    <Authors>Tana</Authors>
+    <Product>Umbreon Pero-Pero</Product>
+    <Copyright>Copyright © 2023 Tana</Copyright>
+    <RepositoryUrl>https://github.com/TanaUmbreon/UmbreonPeroPero</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
