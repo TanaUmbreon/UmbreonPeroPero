@@ -11,14 +11,14 @@
 
 ## 実行結果
 
-[](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample1.png?raw=true)
+![サンプル1](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample1.png?raw=true)
 
-[](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample2.png?raw=true)
+![サンプル2](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample2.png?raw=true)
 
 ## 詳細
 
 以下の確率で結果が変わります。
 
-- 1/197: ブラッキーが近くに居る
-- 96/197: ブラッキーが近くに居ないけど探して発見する
-- 100/197: ブラッキーが近くに居ないし探しても見つからない(´・ω・`)
+- `1/197`: ブラッキーが近くに居る
+- `96/197`: ブラッキーが近くに居ないけど探して発見する
+- `100/197`: ブラッキーが近くに居ないし探しても見つからない(´・ω・`)
