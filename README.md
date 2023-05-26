@@ -11,9 +11,9 @@
 
 ## 実行結果
 
-[](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample1.png)
+[](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample1.png?raw=true)
 
-[](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample2.png)
+[](https://github.com/TanaUmbreon/UmbreonPeroPero/blob/main/SampleImages/sample2.png?raw=true)
 
 ## 詳細
 
